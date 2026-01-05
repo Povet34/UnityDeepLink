@@ -4,6 +4,8 @@ UnityDeepLink
 
 https://github.com/Unity-Technologies/NotchSafeAreaSample
 
+https://wotkd34sport.notion.site/DeepLink-2df95befd00180a4af89c3472b2beb28?source=copy_link
+
 ### AOS
 
 <img width="898" height="339" alt="image" src="https://github.com/user-attachments/assets/7770506d-b24b-45b6-9c9b-4133cd002f6f" />
